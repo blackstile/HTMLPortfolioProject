@@ -1,0 +1,24 @@
+body{
+  font-family: "Helvetica Neue", Arial, serif;
+  color:#666;
+}
+a{
+  color: #00B8D4;
+  font-weight: bold;
+}
+div.header{
+  text-align: center;
+}
+div {
+  padding-left: 200px;
+  padding-right: 100px;
+  margin: 0 auto;
+  padding: 10px;
+}
+.skills{
+  background-color: #00B8D4;
+  color: #fff;
+}
+.skills ul li{
+  line-height: 1.5em;
+}
